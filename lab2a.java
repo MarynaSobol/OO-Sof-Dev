@@ -1,3 +1,5 @@
+//Student Name:     Sobol Maryna
+//Student ID:       C00312784
 public class lab2a 
 {
     public static void main(String[] args) 
@@ -15,3 +17,4 @@ public class lab2a
         
     }
 }
+
