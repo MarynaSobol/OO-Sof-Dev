@@ -1,3 +1,5 @@
+//Student Name:     Sobol Maryna
+//Student ID:       C00312784
 package lab2b;
 
 public class Rectangle 
@@ -90,3 +92,4 @@ public class Rectangle
     }
 
 }
+
