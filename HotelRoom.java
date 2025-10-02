@@ -1,3 +1,5 @@
+//Student Name:     Sobol Maryna
+//Student ID:       C00312784
 public class HotelRoom
 {
     private int roomNumber;
@@ -85,3 +87,4 @@ public class HotelRoom
         this.roomRate = roomRate;
     }
 }
+
