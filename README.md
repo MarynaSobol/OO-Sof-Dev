@@ -1,2 +1,2 @@
-# OO-Sof-Dev
+# OO-Sof-Dev-Labs
 labs
