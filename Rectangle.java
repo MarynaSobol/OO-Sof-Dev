@@ -1,0 +1,24 @@
+public class Rectangle extends TwoDShape
+{
+    private double length;
+    private double breadth;
+
+    public Rectangle(String name, String colour, double length, double breadth)
+    {
+        super(name, colour);
+        this.length = length;
+        this.breadth = breadth;
+    }
+
+
+    public double area()
+    {
+        return this.length * this.breadth;
+    }
+
+
+    public String toString()
+    {
+        return super.toString() + "\nLength = " + this.length + "\nBreadth = " + this.breadth;
+    }
+}
